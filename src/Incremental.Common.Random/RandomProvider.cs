@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Thankifi.Common.Random
+namespace Incremental.Common.Random
 {
     /// <summary>
     ///     Random provider thanks to https://csharpindepth.com/Articles/Random

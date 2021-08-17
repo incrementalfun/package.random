@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thankifi.Common.Random", "Thankifi.Common.Random\Thankifi.Common.Random.csproj", "{70AFCA19-B4FA-426F-B5FA-B127D2410030}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incremental.Common.Random", "Incremental.Common.Random\Incremental.Common.Random.csproj", "{70AFCA19-B4FA-426F-B5FA-B127D2410030}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
