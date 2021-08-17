@@ -6,8 +6,8 @@
         <Title>Incremental.Common.Random</Title>
         <Description>Thread safe random provider.</Description>
         <Authors>Lucas Maximiliano Marino</Authors>
-        <PackageProjectUrl>https://github.com/thankifi/package.random</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/thankifi/package.random</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/incrementalfun/package.random</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/incrementalfun/package.random</RepositoryUrl>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Copyright>Copyright © Lucas Maximiliano Marino 2021</Copyright>
