@@ -1,8 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net5.0</TargetFramework>
+        <TargetFramework>net6.0</TargetFramework>
         <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <Nullable>enable</Nullable>
         <Title>Incremental.Common.Random</Title>
         <Description>Thread safe random provider.</Description>
         <Authors>Lucas Maximiliano Marino</Authors>
@@ -10,8 +11,14 @@
         <RepositoryUrl>https://github.com/incrementalfun/package.random</RepositoryUrl>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <Copyright>Copyright © Lucas Maximiliano Marino 2021</Copyright>
-        <Nullable>enable</Nullable>
+        <Copyright>Copyright © Lucas Maximiliano Marino 2022</Copyright>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="../../README.md" Pack="true" PackagePath="/"/>
+    </ItemGroup>
     
 </Project>
